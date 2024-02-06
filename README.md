@@ -3,4 +3,16 @@ L’objectif de ce projet est de présenter les aspects théoriques des algorith
 
 Plusieurs papiers de recherche ont été explorer à cet effet  :
 
-$href{https://wiki.pathmind.com/deep-reinforcement-learning}{A Beginner’s Guide to Deep Reinforcement Learning and}$
+$[1] S. K. Sahu, A. Mokhade et N. D. Bokde. « An Overview of Machine Learning, Deep
+Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance : Recent
+Progress and Challenges »$ 
+
+[2] F. Bertoluzzo et M. Corazza. « Making financial trading by recurrent reinforcement
+learning ». In : Knowledge-Based Intelligent Information and Engineering Systems : 11th
+International Conference, KES 2007, XVII Italian Workshop on Neural Networks, Vietri
+sul Mare, Italy, September 12-14, 2007. Proceedings, Part II 11. Springer. 2007, p. 619-626.
+
+[3] ] S. K. Sahu, A. Mokhade et N. D. Bokde. « An Overview of Machine Learning, Deep
+Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance : Recent
+Progress and Challenges ». In : Applied Sciences 13.3 (2023), p. 1956.
+
