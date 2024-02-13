@@ -1,5 +1,5 @@
 # Reinforcement_Learning_in_quant_assets_trading
-L’objectif de ce projet est de présenter les aspects théoriques des algorithmes de Q-learning , State-Action-Reward-State (SARSA) et recurrent reinforcement learning puis d’explorer une application au trading d’actifs financiers .
+L’objectif de ce projet est de présenter quelques aspects théoriques des algorithmes de Q-learning , State-Action-Reward-State (SARSA) et recurrent reinforcement learning puis d’explorer une application au trading d’actifs financiers .
 
 Plusieurs papiers de recherche ont été explorer à cet effet  :
 
@@ -15,3 +15,4 @@ sul Mare, Italy, September 12-14, 2007. Proceedings, Part II 11. Springer. 2007,
 [3]  X. Li et al. « Recurrent reinforcement learning : a hybrid approach ». In : arXiv preprint
 arXiv :1509.03044 (2015)
 
+Durée d'exécution : Fin Novembre 2023 à Janvier 2024
