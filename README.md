@@ -15,4 +15,4 @@ sul Mare, Italy, September 12-14, 2007. Proceedings, Part II 11. Springer. 2007,
 [3]  X. Li et al. « Recurrent reinforcement learning : a hybrid approach ». In : arXiv preprint
 arXiv :1509.03044 (2015)
 
-Durée : Fin Novembre 2023 à Janvier 2024
+Réalisé pendant mes temps libres , de fin Novembre 2023 à Janvier 2024.
